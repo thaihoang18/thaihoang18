@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a third-year Information Technology student at the School of Information and Communications Technology, Hanoi University of Science and Technology. I am currently exploring web development as a future development direction. I aim to strengthen my technical foundation, gain practical experience, and gradually define a clear professional path in this field.<br><br>DOB: 01/08/2005<br>Gender: Male<br>Contact: thaihoang.workspace@gmail.com
+# 👾 About Me:
+A third-year IT student at Hanoi University of Science and Technology.<br><br>DOB: 01/08/2005<br>Gender: Male<br>Contact: thaihoang.workspace@gmail.com
 
 
 # 💻 Tech Stack:
